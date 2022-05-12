@@ -1,1 +1,1 @@
-numtotal=num1*num2;
+numtot=num1*num2;
