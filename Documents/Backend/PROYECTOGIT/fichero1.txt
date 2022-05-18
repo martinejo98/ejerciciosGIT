@@ -1,2 +1,6 @@
 Primera línea de fichero1
+<<<<<<< HEAD
 Tercera línea de fichero1
+=======
+Segunda linea de fichero1
+>>>>>>> e277d0b7cf12644523557267e977eb0e5ddc883e
